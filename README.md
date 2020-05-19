@@ -1,5 +1,5 @@
 # Tic Tac Toe
 
-## Todo
+a basic Tic-Tac-Toe game built with HTML, CSS, and Javascript
 
-finish Readme
+[Demo](https://tic-tac-toe-36c3e.web.app) here
